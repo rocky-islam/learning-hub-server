@@ -13,6 +13,10 @@ app.get('/', (req, res) => {
 
 app.get('/data', (req, res) =>{
     res.send(data);
+});
+
+app.get('/data/courses/:id', (req, res) =>{
+    res.send(data);
 })
 
 app.listen(port, () => {
