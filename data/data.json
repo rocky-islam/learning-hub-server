@@ -3,36 +3,66 @@
         "id": "01",
         "name": "HTML",
         "img": "https://i.ibb.co/HDqNRxf/sta-je-html.jpg",
+        "price": "80",
+        "student": "194658",
+        "instructor": "john cena",
+        "rating": "4.5",
+        "note": "Dive in and learn form scratch! learning all you want to know. and explore the world",
         "course_dsc": "HTML is everywhere and more and its more important than ever.   Its not only for web developers, having knowledge of HTML and how it works is beneficial in most careers. HyperText Markup Language, commonly abbreviated as HTML, is the standard markup language used to create web pages. Along with CSS, and JavaScript, HTML is a cornerstone technology used to create web pages as well as to create user interfaces for mobile and web applications. Taught by an instructor with over 15 years of real world web development experience. This course has everything you need to learn how write HTML code from scratch. Fast paced get to the point training, to learn about creating websites and using HTML code. By the end of the course you will have the skills and know how to apply HTML to make a real website. I am here to help you learn how to create your own websites and ready to answer any questions you may have. Learning how to apply HTML to design web content will help to separate you from the crowd. Want to know more, what are you waiting for take the first step.  Join now to start learning how you too can write your own HTML code today."
     },
     {
         "id": "02",
         "name": "CSS",
         "img": "https://i.ibb.co/kgGj5RW/css.png",
+        "price": "85",
+        "student": "365214",
+        "instructor": "john alex",
+        "rating": "4.5",
+        "note":"Dive in and learn form scratch! learning all you want to know. and explore the world",
         "course_dsc":"Have you been coding CSS for some time, but want to take your game to the next level? Do you feel confused with CSS jargon like inheritance, specificity, or the cascade? What if there was one resource, one place, where you could learn all the advanced and modern CSS techniques and properties you've been reading about? Good news: there is! Welcome toAdvanced CSS and Sass, the most advanced, the most modern, and the most complete CSS course on the internet. It's everything you want in an advanced CSS course, and more. You will learn complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more. Like in all my courses, you will build beautiful and carefully designed projects, that will make you proud of yourself and leave you ready to build complex projects on your own. After finishing this course, you will: 1) Be up to speed with the most modern and advanced CSS properties and techniques; 2) Have mastered the cutting-edge layout technologies Flexbox and CSS Grid; 3) Be ready to build responsive layouts for all kinds of devices and situations; 4) Truly understand how CSS works behind the scenes; 5) Be able to architect large CSS codebases for reusability and maintainability using Sass. Please note that this course is NOT for absolute beginners, so you should already be at an intermediate level in HTML and CSS (please check out my other course if that's not the case)."
     },
     {
         "id": "03",
         "name": "JavaScript",
         "img": "https://i.ibb.co/JcrksmN/Free-Courses-to-learn-Java-Script.jpg",
+        "price": "87",
+        "student": "632541",
+        "instructor": "Morkel sam",
+        "rating": "4.5",
+        "note":"Dive in and learn form scratch! learning all you want to know. and explore the world",
         "course_dsc": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place! Why is this the right JavaScript course for you? This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications. You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster. By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer."
     },
     {
         "id": "04",
         "name": "React JS",
         "img": "https://i.ibb.co/N9x4Ld6/tutoriales-react-js.jpg",
+        "price": "90",
+        "student": "569854",
+        "instructor": "Sam Rom",
+        "rating": "4.5",
+        "note":"Dive in and learn form scratch! learning all you want to know. and explore the world",
         "course_dsc": "Welcome to React - The Complete Guide! This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer. This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer! No matter if you know nothing about React or if you already got some basic React knowledge (not required but also not a problem), you will get tons of useful information and knowledge out of this course! My goal with this course is to ensure that you feel confident working with React, so that you can apply for React jobs, use it in your own projects or simply enhance your portfolio as a developer - whatever your goal is: This course gets you there! I originally created this course in 2017 and I have kept it updated since that - redoing it from the ground up in 2021. And of course I'm dedicated to keeping this course up-to-date - so that you can rely on this course to learn React in the best possible way!"
     },
     {
         "id": "05",
         "name": "NEXT.JS",
         "img": "https://i.ibb.co/qyb3Jbj/1-htb-Ud-Wg-FQ3a94-PMEv-Br-h-Q.png",
+        "price": "95",
+        "student": "321456",
+        "instructor": "David Babel",
+        "rating": "4.5",
+        "note":"Dive in and learn form scratch! learning all you want to know. and explore the world",
         "course_dsc": "Join this bestselling NextJS course and learn how to build highly dynamic, super fast and SEO-ready React apps with React & NextJS! This course comes with two paths which you can take: The path (full >20h course) and the  path (~3h summary module) - you can choose the path that best fits your time requirements! I created the bestselling Udemy course on React, now I'm super excited to share this course on NextJS with you - an in-depth course about an amazing React framework that allows you to take the next step as a React developer and build real, production-ready projects with React and Next.js Next.js is the production-ready, fullstack-capable framework for ReactJS - the most popular JavaScript library you can learn these days! Too many buzzwords for your taste? Fair enough - but indeed, NextJS is a great choice for growing as a React developer and for taking your React apps to the next level! Because NextJS is growing fast and therefore in high demand. And there are good reasons for that: NextJS allows you to build React apps with built-in server-side rendering and page pre-rendering. Building great user experiences and search engine friendly (SEO!) React apps has never been easier! In addition, NextJS makes building fullstack React apps (frontend + backend code combined in one project) extremely easy as well! Blend client-side and server-side code and build a NodeJS-based API side-by-side with your frontend React apps. It's a breeze with NextJS! Want to add authentication? NextJS simplifies that as well and makes user signup, sign in and session management very convenient. This course will take you from NextJS beginner to advanced level in no time! We'll start at the very basics, no NextJS knowledge is required at all, and we'll then dive into all the core features that make up NextJS. Both in theory as well as with multiple real projects where all concepts will be applied step-by-step. For this course, you'll need basic React knowledge, though the course does come with a React refresher module in case it's been some time since you last worked with React."
     },
     {
         "id": "06",
         "name": "Artificial Intelligence",
         "img": "https://i.ibb.co/LPxxdPJ/AI-960x0.jpg",
+        "price": "100",
+        "student": "632541",
+        "instructor": "Rocky",
+        "rating": "4.5",
+        "note":"Dive in and learn form scratch! learning all you want to know. and explore the world",
         "course_dsc": "Learn key AI concepts and intuition training to get you quickly up to speed with all things AI. Covering: How to start building AI with no previous coding experience using Python How to merge AI with OpenAI Gym to learn as effectively as possible How to optimize your AI to reach its maximum potential in the real world Here is what you will get with this course: 1. Complete beginner to expert AI skills Learn to code self-improving AI for a range of purposes. In fact, we code together with you. Every tutorial starts with a blank page and we write up the code from scratch. This way you can follow along and understand exactly how the code comes together and what each line means. 2. Code templates Plus, you ll get downloadable Python code templates for every AI you build in the course. This makes building truly unique AI as simple as changing a few lines of code. If you unleash your imagination, the potential is unlimited. 3. Intuition Tutorials Where most courses simply bombard you with dense theory and set you on your way, we believe in developing a deep understanding for not only what you re doing, but why you re doing it. Thats why we dont throw complex mathematics at you, but focus on building up your intuition in coding AI making for infinitely better results down the line. 4. Real-world solutions Youll achieve your goal in not only 1 game but in 3. Each module is comprised of varying structures and difficulties, meaning youll be skilled enough to build AI adaptable to any environment in real life, rather than just passing a glorified memory “test and forget” like most other courses. Practice truly does make perfect. 5. In-course support Were fully committed to making this the most accessible and results-driven AI course on the planet. This requires us to be there when you need our help. Thats why weve put together a team of professional Data Scientists to support you in your journey, meaning youll get a response from us within 48 hours maximum."
     }
 
