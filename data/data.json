@@ -1,15 +1,27 @@
 [
     {
         "id": "01",
-        "name": "JavaScript"
+        "name": "HTML"
     },
     {
         "id": "02",
-        "name": "React"
+        "name": "CSS"
     },
     {
         "id": "03",
-        "name": "NEXT JS"
+        "name": "JavaScript"
+    },
+    {
+        "id": "04",
+        "name": "React JS"
+    },
+    {
+        "id": "05",
+        "name": "NEXT.JS"
+    },
+    {
+        "id": "06",
+        "name": "Artificial Intelligence"
     }
 
 ]
